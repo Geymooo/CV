@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/wordpress/index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/wordpress</link>
+	<atom:link href="http://192.168.222.122/wordpress/index.php/azrialcv//index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.222.122/wordpress/index.php/azrialcv/</link>
 	<description></description>
 	<lastBuildDate>Fri, 26 Jan 2024 05:59:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
